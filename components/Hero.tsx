@@ -22,7 +22,7 @@ const Hero = () => {
 
         <CustonButton
           title="Explore Cars"
-          containerStyle="bg-primary-blue text-white rounded-full mt-10"
+          containerStyle="bg-emerald-500 text-white rounded-full mt-10"
           handelClick={handleScroll}
         />
       </div>
