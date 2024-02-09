@@ -18,6 +18,10 @@ const Hero = () => {
         <p className="hero__subtitle">
           Streamline your car rental experience with our effortless booking
           process.
+
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus dolor molestiae accusamus, necessitatibus culpa a inventore? Fugiat voluptatem voluptate totam itaque ipsam, dicta maiores, velit necessitatibus, quisquam animi rerum voluptatum.
+
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum ex, deserunt itaque id laudantium eum minima ipsam cum odio praesentium, provident, ducimus adipisci consectetur! Ea fugiat ratione provident veniam assumenda.
         </p>
 
         <CustonButton
